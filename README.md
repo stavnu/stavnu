@@ -4,5 +4,5 @@
 ## HackTheBox
 ### Top 5 in Israel
 ### Team ranked 7 in the world - TargetRoot
-### Profile link : https://app.hackthebox.com/users/1395006
+### Profile link: https://app.hackthebox.com/profile/1395006
 ![Screenshot_2](https://github.com/stavnu/stavnu/assets/89148310/d7f6be14-35af-4032-bbac-d0b16ee0227c)
